@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://cookbook.tyler.resolute.com
+Data file = /Users/tyler.gardosh/srv/web/cookbook/wp-content/uploads/2021/01/demo-content-import-file_2021-01-12__20-01-14.xml
+Widget file = /Users/tyler.gardosh/srv/web/cookbook/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-12__20-01-14.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+---Importing widgets---
+Woocommerce - Index Sidebar : 
+
+Text - No Title - Imported
+
+Archives/Index Sidebar : 
+
+Neptune Author Box - About Me - Imported
+Neptune Social Links - No Title - Imported
+Mailchimp Sign-Up Form - Our Newsletter - Imported
+Neptune Categories - Categories - Imported
+Popular Posts [Top 10] - Popular Recipes - Imported
+Neptune Cuisines - Popular Cuisines - Imported
+Text - No Title - Imported
+Tag Cloud - Popular Tags - Imported
+
+Footer Sidebar : 
+
+Text - Instagram Feed - Imported
+Text - Facebook Fans - Imported
+Popular Posts [Top 10] - Popular Recipes - Imported
+Neptune Categories - Popular Categories - Imported
+
+Single Recipe Sidebar : 
+
+Text - No Title - Imported
+
+Single Recipe Comments Area Sidebar : 
+
+Text - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
